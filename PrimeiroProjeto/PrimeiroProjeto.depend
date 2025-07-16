@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1752612777 source:c:\users\bruno campos fonseca\onedrive\documentos\codeblocksprojects\primeiroprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1752615562 source:c:\users\bruno campos fonseca\onedrive\documentos\codeblocksprojects\primeiroprojeto\fatorial.c
+	<stdlib.h>
+	<stdio.h>
+
+1752621261 source:c:\users\bruno campos fonseca\onedrive\documentos\codeblocksprojects\primeiroprojeto\vetores.c
+	<stdio.h>
+	<stdlib.h>
+
+1752623451 source:c:\users\bruno campos fonseca\onedrive\documentos\codeblocksprojects\primeiroprojeto\atv_triang.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
